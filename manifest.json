@@ -1,0 +1,23 @@
+{
+    "manifest_version": 1,
+    "name": "Invoice-combination",
+    "version": "1.0.0",
+    "description": "计算出最优的发票组合",
+    "icons": {
+        "16": "img/icon16.png",
+        "48": "img/icon48.png",
+        "128": "img/icon128.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "19": "img/icon16.png",
+            "38": "img/icon32.png"
+        },
+        "default_title": "Invoice-combination",
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "http://baidu.com/*"
+    ]
+
+}
