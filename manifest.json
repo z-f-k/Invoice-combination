@@ -1,5 +1,5 @@
 {
-    "manifest_version": 1,
+    "manifest_version": 2,
     "name": "Invoice-combination",
     "version": "1.0.0",
     "description": "计算出最优的发票组合",

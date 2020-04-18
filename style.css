@@ -119,3 +119,9 @@ button {
 	margin-top:16px;
 	padding-left: 70px;
 }
+.answer--title{
+	justify-content: space-between;
+}
+.answer--title label{
+	margin-bottom: 0px;
+}
